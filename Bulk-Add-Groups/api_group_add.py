@@ -22,7 +22,7 @@ import okta.models
 #######################################################################
 ### Variables
 
-fileName = r"path to UTF-8.csv with headers OG,OD"
+fileName = r"Bulk-Add-Groups\Example.csv"
 
 #######################################################################
 ### Body
